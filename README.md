@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning HTML/CSS (in school, prefer to just learn stuff in school)
 - 📫 How to reach me: You will never reach me, mwa ha ha.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am an extreme fan of Pokemon and Kuroko no Basket
+- ⚡ Fun fact: I am an extreme fan of Pokemon and Kuroko no Basket.
+
+
 I very much enjoy digital technologies and love the stage of tech when your planning what to buy which is why I want to become a systems architect so
 I can plan and implement technology for a living (I think, correct me if I am wrong)
 
