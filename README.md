@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EternalKing04
 - 👀 I’m interested in learning cloud technologies and networking in my pursuit of becoming a system architect.
-- 🌱 I’m currently learning HTML/CSS (in school, prefer to just learn stuff in school). Might start learning the basics of networking.
+- 🌱 Might start learning the basics of networking and SQL.
 - 📫 How to reach me: You will never reach me, mwa ha ha.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am an extreme fan of Pokemon and Kuroko no Basket.
